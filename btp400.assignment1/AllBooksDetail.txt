@@ -1,0 +1,11 @@
+Details of All Books in Library
+1000,B00E9TY9A0,GIRL JACKED,Christopher Greyson,null,true,null,
+1005,BBBBBBBBB99,Girl Javaed,Christopher Robin,20060106,false,null,
+1006,CCCCCCCCC99,Girl Javaed,Christopher Robin,null,true,null,
+1007,DDDDDDD99,Boy Javaed,Robin Christopher ,null,false,100,
+1008,DDDDDDDDD99,Test Book,Test ,null,true,null,
+1009,EEEEEEEEE99,Test Book,Test ,null,true,null,
+1010,EEEEEEEE001,Harry Potter,J.K. Rowling,null,true,null,
+1011,EEEEEEEE001,Harry Potter,J.K. Rowling,null,true,null,
+1012,BTP400TESTDATA1,BTP400,GuoYu Cao,1001,false,null,
+1013,ISBNTESTDATA123,TESTBOOK123,TEST,null,false,100,
