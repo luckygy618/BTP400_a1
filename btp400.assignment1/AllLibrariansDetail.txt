@@ -1,5 +1,0 @@
-Details of All Librarians
-guy@incognito.com,123,Guy,Incognito,PhD,He is a librarian.,junior librarian,
-spongebob@squarepants.com,123,Spongebob,Squarepants,PhD,He is a librarian.,junior librarian,
-bojack@horseman.com,123,Bojack,Horseman,PhD,He is a librarian.,junior librarian,
-john@mulaney.com,123,John,Mulaney,PhD,He is very small and has no money,junior librarian,
